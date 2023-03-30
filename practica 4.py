@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Mar 23 14:32:45 2023
-
-@author: luis mercado
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Mar 14 18:56:53 2023
 
 @author: luis mercado
